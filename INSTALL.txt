@@ -1,0 +1,2 @@
+安装：将 ui-design-references 文件夹放入 ~/.codex/skills/。
+全局启用：将 global-AGENTS-snippet.md 的内容合并进 ~/.codex/AGENTS.md。
